@@ -11,6 +11,8 @@ skills/
   _template/                   copy this to start a new skill (ignored by tooling)
   mcp-permission-review/       example: audit an MCP server's blast radius
   commit-message-conventions/  example: Conventional Commits helper
+  github-actions-workflows/    write, harden, and debug Actions workflows
+  k3s-cluster-ops/             install, upgrade, back up, and troubleshoot K3s
 scripts/
   install.sh                   link or copy skills into ~/.claude/skills
   validate.py                  lint every skill (stdlib only)
